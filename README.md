@@ -1,6 +1,6 @@
-# dashj
+# historiaj
 
-> A Java library for working with Dash
+> A Java library for working with historiaj - DEV VERSION
 > 
 [![License](https://img.shields.io/github/license/dashevo/dashj)](https://github.com/dashevo/dashj/blob/master/COPYING)
 [![dashevo/dashj](https://tokei.rs/b1/github/dashevo/dashj?category=code)](https://github.com/dashevo/dashj)
@@ -9,9 +9,9 @@
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------|
 | master | [![Tests](https://github.com/dashevo/dashj/workflows/Java%20CI/badge.svg?branch=master)](https://github.com/dashevo/dashj/actions) | [![codecov](https://codecov.io/gh/dashevo/dashj/branch/master/graph/badge.svg)](https://codecov.io/gh/dashevo/android-dpp) | N/A     |
 
-### Welcome to dashj
+### Welcome to historiaj
 
-The dashj library is a Java implementation of the Dash protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Dash Core. It comes with full documentation and some example apps showing how to use it.
+The dashj library is a Java implementation of the Historia protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Historia Core. It comes with full documentation and some example apps showing how to use it.
 
 This branch is up to date with bitcoinj (https://github.com/bitcoinj/bitcoinj) 0.15.10.
 
